@@ -27,7 +27,7 @@
 3. 또는 [네이버](https://www.naver.com/, "네이버")
 4. 이렇게 부연 설명을 할 수 있다.
 Here is a simple flow chart:
-
+---
 ```mermaid
 graph TD;
     A-->B;
@@ -35,4 +35,10 @@ graph TD;
     B-->D;
     C-->D;
 ```
+---
+```
+python
+print("Hello")
+```
+
   
