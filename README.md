@@ -26,3 +26,13 @@
 2. 이렇게 [네이버](https://www.naver.com/) 이름을 추가할 수도 있다.
 3. 또는 [네이버](https://www.naver.com/, "네이버")
 4. 이렇게 부연 설명을 할 수 있다.
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+  
